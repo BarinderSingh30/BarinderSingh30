@@ -1,5 +1,20 @@
-- 👋 Hi, I’m @BarinderSingh30
-- 👀 I’m interested in AI and deep learning.
-- 🌱 I’m currently learning machine learning and neural network.
-- 💞️ I’m looking to collaborate on interesting, and learning projects related to python
-- 📫 How to reach me at my email emailforbarinder@gamil.com
+# 👋 Hi, I'm Barinder Singh  
+
+🎓 B.Tech Student at Punjab Engineering College, Chandigarh  
+💻 Full Stack Developer | JavaScript | React.js | Node.js | Express.js | SQL | MongoDB | Python | C++  
+🔬 Ex-Intern @ CSIR-CSIO (Worked on Graph-Based SLAM using C++ & Keyframe Technologies)  
+🌱 Currently exploring advanced web development and system-level problem solving  
+🚀 Career Goal: Build scalable, user-friendly applications as a Full Stack Developer  
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** JavaScript, Python, C++, SQL  
+- **Frontend:** React.js, HTML, CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB, MySQL  
+- **Other:** Git, GitHub, REST APIs  
+
+
+
+
