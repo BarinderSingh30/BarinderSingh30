@@ -117,18 +117,6 @@ Full cloud pipeline: loaded dataset into **AWS S3** → ingested into **Snowflak
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BarinderSingh30&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=A0A0B0&ring_color=00D9FF"/>
-&nbsp;&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarinderSingh30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=A0A0B0"/>
-
-</div>
-
----
-
 <div align="center">
 
 *"Without data, you're just another person with an opinion."*
